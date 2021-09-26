@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT-HOOKS-AND-PROPS/static/css/main.cb8158cb.chunk.css",
+    "main.js": "/REACT-HOOKS-AND-PROPS/static/js/main.d2ad8da0.chunk.js",
+    "main.js.map": "/REACT-HOOKS-AND-PROPS/static/js/main.d2ad8da0.chunk.js.map",
+    "runtime-main.js": "/REACT-HOOKS-AND-PROPS/static/js/runtime-main.a474c89a.js",
+    "runtime-main.js.map": "/REACT-HOOKS-AND-PROPS/static/js/runtime-main.a474c89a.js.map",
+    "static/js/2.ecff8b8c.chunk.js": "/REACT-HOOKS-AND-PROPS/static/js/2.ecff8b8c.chunk.js",
+    "static/js/2.ecff8b8c.chunk.js.map": "/REACT-HOOKS-AND-PROPS/static/js/2.ecff8b8c.chunk.js.map",
+    "index.html": "/REACT-HOOKS-AND-PROPS/index.html",
+    "static/css/main.cb8158cb.chunk.css.map": "/REACT-HOOKS-AND-PROPS/static/css/main.cb8158cb.chunk.css.map",
+    "static/js/2.ecff8b8c.chunk.js.LICENSE.txt": "/REACT-HOOKS-AND-PROPS/static/js/2.ecff8b8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a474c89a.js",
+    "static/js/2.ecff8b8c.chunk.js",
+    "static/css/main.cb8158cb.chunk.css",
+    "static/js/main.d2ad8da0.chunk.js"
+  ]
+}
